@@ -80,7 +80,7 @@ fun ProfileScreen() {
                 Spacer(modifier = Modifier.height(16.dp))
 
                 Text(
-                    text = "Võ Nguyễn Phong Phú",
+                    text = "Võ Nguyễn Phong Phú AAA",
                     fontSize = 22.sp,
                     fontWeight = FontWeight.Bold
                 )
