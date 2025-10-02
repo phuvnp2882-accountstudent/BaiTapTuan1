@@ -1,4 +1,4 @@
-# Bài tập tuần 1
+# BÀI TẬP TUẦN 1
 # 1. Mong muốn và định hướng của em sau khi học xong môn học
 Sau khi hoàn thành môn học lập trình di động, em mong muốn có thể nắm vững được kiến thức cơ bản về phát triển ứng dụng trên thiết bị di động. Em mong rằng mình có khả năng tự xây dựng một ứng dụng đơn giản, từ đó làm nền tảng để học hỏi thêm và phát triển các ứng dụng phức tạp hơn. Về định hướng lâu dài, tuy em không trở thành một lập trình viên di động, nhưng em tin rằng những kiến thức được dạy sẽ là những thành phần quan trọng giúp phát triển công việc, có thể tham gia vào các dự án thực tế phục vụ cho công việc và đời sống.
 # 2. Theo em, trong 10 năm tới lập trình di động có phát triển hay không? Tại sao?
